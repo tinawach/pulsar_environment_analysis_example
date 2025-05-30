@@ -1,0 +1,16 @@
+Here you can find the 'bad quality' runs --> always suggested to check the websummary 
+Run 23832 failed 4 quality criteria:
+----------------------------------
+- Duration criteria [600.0,7200.0] failed: run duration 70.0
+- Participation fraction criteria [0.4,1.0] failed for CT3 : run Participation fraction of 0.0
+- Participation fraction criteria [0.4,1.0] failed for CT3 : run Participation fraction of 0.0
+- Broken pixel criteria failed for CT3
+- Missing data {Trigger rate}
+
+Run 23845 failed 4 quality criteria:
+----------------------------------
+- Duration criteria [600.0,7200.0] failed: run duration 15.0
+- Broken pixel criteria failed for CT1
+- Broken pixel criteria failed for CT2
+- Broken pixel criteria failed for CT4
+
